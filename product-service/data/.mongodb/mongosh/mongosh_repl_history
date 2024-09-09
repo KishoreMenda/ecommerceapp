@@ -1,0 +1,25 @@
+db.product.find()
+db.product.drop()
+db.product.find()
+db.product.drop()
+db.product.find()
+db.product.drop()
+db.product.find()
+show collections
+db.product.drop()
+db.product.find().pretty()
+show collections
+product-service.product.find().pretty()
+show collections
+db.product-service.find().pretty()
+db.product-service.find().pretty
+use product-service
+show dbs
+use admin
+show dbs
+db.product.find().pretty()
+show collections
+use product-service
+show dbs
+use admin
+show dbs
